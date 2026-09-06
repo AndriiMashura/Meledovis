@@ -68,7 +68,7 @@ export function useAchievements() {
     addAchievement,
     unlocked,
     stats,
-  totalXP,
+    totalXP,
     resetAchievements,
   }
 }
